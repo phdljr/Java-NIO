@@ -11,7 +11,7 @@ import java.util.EnumSet;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class StudyAsynchronousFileChannel {
+public class StudyAsynchronousFileChannelWrite {
 
 	public static void main(String[] args) throws IOException {
 		ExecutorService executorService = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors());
