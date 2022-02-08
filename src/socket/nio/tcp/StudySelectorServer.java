@@ -13,9 +13,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.Vector;
 
-import javafx.application.Application;
 import javafx.application.Platform;
-import javafx.stage.Stage;
 
 public class StudySelectorServer {
 	Selector selector;
